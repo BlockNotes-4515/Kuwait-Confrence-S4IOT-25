@@ -7,5 +7,5 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 
 
 <p align="center">
-  <img src="IEEE%20PAPERS/Invitation%20Letter.PNG" alt="Invitation Letter" width="600">
+  <img src="IEEE%20PAPERS/Acceptance%20Letter.jpg" alt="Invitation Letter" width="600">
 </p>
