@@ -55,7 +55,8 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
     </tr>
     <tr>
       <td><img src="Kuwait Memories/3333.jpg" width="300px"></td>
-      <td><img src="Kuwait Memories/20202020.jpg" width="300px"></td>
+      <td><img src="Kuwait Memories/20202020.jpg" width="300px style="transform: rotate(90deg);"></td>
     </tr>
   </table>
+  <hr>
 </div>
