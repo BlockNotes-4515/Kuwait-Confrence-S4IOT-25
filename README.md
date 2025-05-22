@@ -10,7 +10,7 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
   <img src="IEEE%20PAPERS/Acceptance Letter!.jpg" alt="Invitation Letter" width="600">
 </p>
 <hr>
-<p align='center'>GALLERY SECTIONS </p>
+<h2 align="center"><b>GALLERY SECTIONS</b></h2>
 <table>
   <tr>
     <td><img src="https://your-image-link-1.jpg" width="100%"></td>
