@@ -11,9 +11,11 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 </p>
 <hr>
 <h2 align="center"><b>GALLERY SECTIONS</b></h2>
-<table>
-  <tr>
-    <td><img src="https://your-image-link-1.jpg" width="100%"></td>
-    <td><img src="https://your-image-link-2.jpg" width="100%"></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="Dhruv Dhayal.jpg" width="300px"></td>
+      <td><img src="4444.jpg" width="300px"></td>
+    </tr>
+  </table>
+</div>
