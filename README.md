@@ -63,46 +63,52 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 <hr>
 <h2>📘 Publication Details</h2>
 
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Field</th>
-      <th>Information</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>DOI</strong></td>
-      <td>
-        <a href="https://doi.org/10.1007/978-981-95-5136-1_16" target="_blank">
-          https://doi.org/10.1007/978-981-95-5136-1_16
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Published</strong></td>
-      <td>01 February 2026</td>
-    </tr>
-    <tr>
-      <td><strong>Publisher</strong></td>
-      <td>Springer, Singapore</td>
-    </tr>
-    <tr>
-      <td><strong>Print ISBN</strong></td>
-      <td>978-981-95-5135-4</td>
-    </tr>
-    <tr>
-      <td><strong>Online ISBN</strong></td>
-      <td>978-981-95-5136-1</td>
-    </tr>
-    <tr>
-      <td><strong>eBook Packages</strong></td>
-      <td>
-        Engineering<br>
-        Engineering (R0)<br>
-        Springer Nature Proceedings excluding Computer Science
-      </td>
-    </tr>
-  </tbody>
-</table>
+<hr>
+<h2 style="text-align:center;">📘 Publication Details</h2>
+
+<div style="display:flex; justify-content:center;">
+  <table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Field</th>
+        <th>Information</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>DOI</strong></td>
+        <td>
+          <a href="https://doi.org/10.1007/978-981-95-5136-1_16" target="_blank">
+            https://doi.org/10.1007/978-981-95-5136-1_16
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Published</strong></td>
+        <td>01 February 2026</td>
+      </tr>
+      <tr>
+        <td><strong>Publisher</strong></td>
+        <td>Springer, Singapore</td>
+      </tr>
+      <tr>
+        <td><strong>Print ISBN</strong></td>
+        <td>978-981-95-5135-4</td>
+      </tr>
+      <tr>
+        <td><strong>Online ISBN</strong></td>
+        <td>978-981-95-5136-1</td>
+      </tr>
+      <tr>
+        <td><strong>eBook Packages</strong></td>
+        <td>
+          Engineering<br>
+          Engineering (R0)<br>
+          Springer Nature Proceedings excluding Computer Science
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <hr>
