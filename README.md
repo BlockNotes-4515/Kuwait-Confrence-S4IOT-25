@@ -277,32 +277,54 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 <hr>
 <footer style="
   margin-top: 50px;
-  padding: 20px 10px;
+  padding: 25px 10px;
   text-align: center;
   background-color: #f8f9fa;
   border-top: 2px solid #ddd;
   font-family: Arial, sans-serif;
 ">
+
   <p style="margin: 6px 0; font-size: 14px;">
-    © 2026 <strong>Dhruv Dhayal</strong> | Researcher & IoT Developer
+    © 2026 <strong>Dhruv Dhayal</strong> | Researcher & JAVA BACKEND/AI Developer
   </p>
 
-  <p style="margin: 6px 0; font-size: 13px; color: #555;">
-    Published with Springer • Open Access • Lecture Notes in Electrical Engineering (LNEE)
+  <p style="margin: 6px 0 14px; font-size: 13px; color: #555;">
+    Springer Open Access Publication • LNEE Series
   </p>
-
-  <p style="margin: 8px 0;">
-    🔗
-    <a href="https://orcid.org/0009-0000-8346-7834" target="_blank" style="margin: 0 8px; text-decoration: none;">
-      ORCID
+  <!-- Buttons -->
+  <div style="margin-top: 10px;">
+    <a href="https://orcid.org/0009-0000-8346-7834" target="_blank"
+       style="
+         display: inline-block;
+         padding: 10px 18px;
+         margin: 5px;
+         background-color: #A6CE39;
+         color: #fff;
+         text-decoration: none;
+         border-radius: 6px;
+         font-size: 14px;
+         font-weight: bold;
+       ">
+      🔬 ORCID iD
     </a>
-    |
-    <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank" style="margin: 0 8px; text-decoration: none;">
-      LinkedIn
+    <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank"
+       style="
+         display: inline-block;
+         padding: 10px 18px;
+         margin: 5px;
+         background-color: #0A66C2;
+         color: #fff;
+         text-decoration: none;
+         border-radius: 6px;
+         font-size: 14px;
+         font-weight: bold;
+       ">
+      💼 LinkedIn
     </a>
-  </p>
-
-  <p style="margin-top: 10px; font-size: 12px; color: #777;">
+  </div>
+  <p style="margin-top: 15px; font-size: 12px; color: #777;">
     Built with ❤️ for research, innovation, and open science
   </p>
+
 </footer>
+
