@@ -151,3 +151,98 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
   </tbody>
 </table>
 <hr>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th colspan="3">Details</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <!-- Main Publication Row -->
+    <tr>
+      <td><strong>Conference Proceedings</strong></td>
+      <td colspan="3">
+        <strong>Proceedings of S4IoT 2025</strong><br>
+        Symposium on Smart, Secure, and Sustainable Internet of Things (S4IoT)<br>
+        Lecture Notes in Electrical Engineering (LNEE), Volume 1513
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Paper Title</strong></td>
+      <td colspan="3">
+        <strong>
+          IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time
+          Surveillance in Next-Generation Security Applications
+        </strong><br>
+        <em>Conference Paper</em><br>
+        Dhruv Dhayal, Pratham Aggarwal, Manzoor Ansari
+      </td>
+    </tr>
+    <!-- Keywords -->
+    <tr>
+      <td><strong>Keywords</strong></td>
+      <td colspan="3">
+        Internet of Things (IoT), Autonomous Surveillance, Spybot Intelligence,
+        ESP32, Smart Security Systems, Military Surveillance,
+        Sensor Fusion, Real-Time Monitoring, Cybersecurity
+      </td>
+    </tr>
+    <!-- DOI -->
+    <tr>
+      <td><strong>DOI</strong></td>
+      <td colspan="3">
+        <a href="https://doi.org/10.1007/978-981-95-5136-1_16" target="_blank">
+          https://doi.org/10.1007/978-981-95-5136-1_16
+        </a>
+      </td>
+    </tr>
+    <!-- Publication Date -->
+    <tr>
+      <td><strong>Published</strong></td>
+      <td colspan="3">01 February 2026</td>
+    </tr>
+    <!-- Publisher -->
+    <tr>
+      <td><strong>Publisher</strong></td>
+      <td colspan="3">Springer, Singapore</td>
+    </tr>
+    <!-- ISBN Details -->
+    <tr>
+      <td><strong>ISBN</strong></td>
+      <td colspan="3">
+        <strong>Print ISBN:</strong> 978-981-95-5135-4<br>
+        <strong>Online ISBN:</strong> 978-981-95-5136-1
+      </td>
+    </tr>
+    <tr>
+      <td><strong>eBook Packages</strong></td>
+      <td colspan="3">
+        Engineering<br>
+        Engineering (R0)<br>
+        Springer Nature Proceedings (excluding Computer Science)
+      </td>
+    </tr>
+    <!-- Open Access & PDF -->
+    <tr>
+      <td><strong>Access</strong></td>
+      <td colspan="3">
+        🔓 <strong>Open Access Chapter</strong><br>
+        <a href="https://link.springer.com/chapter/10.1007/978-981-95-5136-1_16" target="_blank">
+          📄 Download Conference Paper (PDF)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Shareable Link</strong></td>
+      <td colspan="3">
+        Anyone you share this link with can access the paper:<br>
+        🔗 <a href="https://rdcu.be/e2MoR" target="_blank">
+          https://rdcu.be/e2MoR
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
