@@ -1,4 +1,19 @@
-# Kuwait-Confrence-S4IOT-25
+<h2 style="
+  text-align: center;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #202124;
+  line-height: 1.5;
+  margin: 30px 0;
+">
+  IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveillance
+  in Next-Generation Security Applications<br>
+  <span style="font-size: 14px; color: #5f6368;">
+    (Doha, Kuwait 🇰🇼) — Kuwait Conference at Proceedings of the 2nd Symposium on Smart,
+    Sustainable, and Secure Internet of Things (S4IoT 2025)
+  </span>
+</h2>
 IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveillance in Next-Generation Security Applications
 
 <p align="center">
