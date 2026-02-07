@@ -276,55 +276,73 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 </table>
 <hr>
 <footer style="
-  margin-top: 50px;
-  padding: 25px 10px;
+  margin-top: 60px;
+  padding: 28px 16px;
   text-align: center;
-  background-color: #f8f9fa;
-  border-top: 2px solid #ddd;
-  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  border-top: 1px solid #e0e0e0;
+  font-family: 'Roboto', Arial, sans-serif;
+  color: #202124;
 ">
 
-  <p style="margin: 6px 0; font-size: 14px;">
-    © 2026 <strong>Dhruv Dhayal</strong> | Researcher & JAVA BACKEND/AI Developer
+  <p style="
+    margin: 0 0 6px;
+    font-size: 14px;
+    font-weight: 500;
+  ">
+    © 2026 <strong>Dhruv Dhayal</strong>
   </p>
 
-  <p style="margin: 6px 0 14px; font-size: 13px; color: #555;">
-    Springer Open Access Publication • LNEE Series
+  <p style="
+    margin: 0 0 14px;
+    font-size: 13px;
+    color: #5f6368;
+  ">
+    Researcher · Java Backend & AI Developer · Springer Open Access (LNEE)
   </p>
-  <!-- Buttons -->
-  <div style="margin-top: 10px;">
+
+  <!-- Profile Buttons -->
+  <div style="margin-top: 8px;">
     <a href="https://orcid.org/0009-0000-8346-7834" target="_blank"
        style="
-         display: inline-block;
-         padding: 10px 18px;
-         margin: 5px;
-         background-color: #A6CE39;
-         color: #fff;
+         display: inline-flex;
+         align-items: center;
+         justify-content: center;
+         padding: 8px 16px;
+         margin: 4px;
+         border: 1px solid #dadce0;
+         border-radius: 20px;
+         background-color: #ffffff;
+         color: #1a73e8;
+         font-size: 13px;
+         font-weight: 500;
          text-decoration: none;
-         border-radius: 6px;
-         font-size: 14px;
-         font-weight: bold;
        ">
-      🔬 ORCID iD
+      ORCID iD
     </a>
     <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank"
        style="
-         display: inline-block;
-         padding: 10px 18px;
-         margin: 5px;
-         background-color: #0A66C2;
-         color: #fff;
+         display: inline-flex;
+         align-items: center;
+         justify-content: center;
+         padding: 8px 16px;
+         margin: 4px;
+         border: 1px solid #dadce0;
+         border-radius: 20px;
+         background-color: #ffffff;
+         color: #1a73e8;
+         font-size: 13px;
+         font-weight: 500;
          text-decoration: none;
-         border-radius: 6px;
-         font-size: 14px;
-         font-weight: bold;
        ">
-      💼 LinkedIn
+      LinkedIn
     </a>
   </div>
-  <p style="margin-top: 15px; font-size: 12px; color: #777;">
-    Built with ❤️ for research, innovation, and open science
+  <p style="
+    margin-top: 16px;
+    font-size: 12px;
+    color: #9aa0a6;
+  ">
+    Built for research, innovation, and open science
   </p>
-
 </footer>
-
