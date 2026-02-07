@@ -10,12 +10,11 @@
   IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveillance
   in Next-Generation Security Applications<br>
   <span style="font-size: 14px; color: #5f6368;">
+    <br>
     (Doha, Kuwait 🇰🇼) — Kuwait Conference at Proceedings of the 2nd Symposium on Smart,
     Sustainable, and Secure Internet of Things (S4IoT 2025)
   </span>
 </h2>
-IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveillance in Next-Generation Security Applications
-
 <p align="center">
   <img src="S4IOT-INVITATION PAMPHLET_page-0001.jpg" alt="Invitation Letter" width="600">
 </p>
