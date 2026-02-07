@@ -61,10 +61,12 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
   <hr>
 </div>
 <hr>
-<h2>📘 Publication Details</h2>
 
 <hr>
-<h2 style="text-align:center;">📘 Publication Details</h2>
+<h2 style="text-align: center; border-bottom: 2px solid #ccc; padding-bottom: 8px;">
+  📘 Publication Details
+</h2>
+
 
 <div style="display:flex; justify-content:center;">
   <table border="1" cellpadding="8" cellspacing="0">
