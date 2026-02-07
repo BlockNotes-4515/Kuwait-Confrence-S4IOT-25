@@ -112,3 +112,42 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 </div>
 
 <hr>
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <thead>
+    <tr>
+      <th>Conference Proceedings</th>
+      <th>Paper Title</th>
+      <th>DOI</th>
+      <th>Open Access / PDF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Proceedings of S4IoT 2025</strong><br>
+        Lecture Notes in Electrical Engineering (LNEE), Volume 1513<br>
+        Symposium on Smart, Secure, and Sustainable Internet of Things
+      </td>
+      <td>
+        <strong>
+          IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time
+          Surveillance in Next-Generation Security Applications
+        </strong><br>
+        <em>Conference Paper</em><br>
+        Dhruv Dhayal, Pratham Aggarwal, Manzoor Ansari
+      </td>
+      <td>
+        <a href="https://doi.org/10.1007/978-981-95-5136-1_16" target="_blank">
+          10.1007/978-981-95-5136-1_16
+        </a>
+      </td>
+      <td>
+        🔓 <strong>Open Access</strong><br>
+        <a href="https://link.springer.com/chapter/10.1007/978-981-95-5136-1_16" target="_blank">
+          📄 Download Conference Paper (PDF)
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
