@@ -276,73 +276,34 @@ IntelliGuard: IoT-Enabled Autonomous Spybot Intelligence for Real-Time Surveilla
 </table>
 <hr>
 <footer style="
-  margin-top: 60px;
-  padding: 28px 16px;
+  margin-top: 50px;
+  padding: 20px 10px;
   text-align: center;
-  background-color: #ffffff;
-  border-top: 1px solid #e0e0e0;
-  font-family: 'Roboto', Arial, sans-serif;
-  color: #202124;
+  background-color: #f8f9fa;
+  border-top: 2px solid #ddd;
+  font-family: Arial, sans-serif;
 ">
-
-  <p style="
-    margin: 0 0 6px;
-    font-size: 14px;
-    font-weight: 500;
-  ">
-    © 2026 <strong>Dhruv Dhayal</strong>
+  <p style="margin: 6px 0; font-size: 14px;">
+    © 2026 <strong>Dhruv Dhayal</strong> | Researcher & IoT Developer
   </p>
 
-  <p style="
-    margin: 0 0 14px;
-    font-size: 13px;
-    color: #5f6368;
-  ">
-    Researcher · Java Backend & AI Developer · Springer Open Access (LNEE)
+  <p style="margin: 6px 0; font-size: 13px; color: #555;">
+    Published with Springer • Open Access • Lecture Notes in Electrical Engineering (LNEE)
   </p>
 
-  <!-- Profile Buttons -->
-  <div style="margin-top: 8px;">
-    <a href="https://orcid.org/0009-0000-8346-7834" target="_blank"
-       style="
-         display: inline-flex;
-         align-items: center;
-         justify-content: center;
-         padding: 8px 16px;
-         margin: 4px;
-         border: 1px solid #dadce0;
-         border-radius: 20px;
-         background-color: #ffffff;
-         color: #1a73e8;
-         font-size: 13px;
-         font-weight: 500;
-         text-decoration: none;
-       ">
-      ORCID iD
+  <p style="margin: 8px 0;">
+    🔗
+    <a href="https://orcid.org/0009-0000-8346-7834" target="_blank" style="margin: 0 8px; text-decoration: none;">
+      ORCID
     </a>
-    <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank"
-       style="
-         display: inline-flex;
-         align-items: center;
-         justify-content: center;
-         padding: 8px 16px;
-         margin: 4px;
-         border: 1px solid #dadce0;
-         border-radius: 20px;
-         background-color: #ffffff;
-         color: #1a73e8;
-         font-size: 13px;
-         font-weight: 500;
-         text-decoration: none;
-       ">
+    |
+    <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="_blank" style="margin: 0 8px; text-decoration: none;">
       LinkedIn
     </a>
-  </div>
-  <p style="
-    margin-top: 16px;
-    font-size: 12px;
-    color: #9aa0a6;
-  ">
-    Built for research, innovation, and open science
+  </p>
+
+  <p style="margin-top: 10px; font-size: 12px; color: #777;">
+    Built with ❤️ for research, innovation, and open science
   </p>
 </footer>
+
